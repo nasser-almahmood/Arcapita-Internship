@@ -12,7 +12,7 @@ frequency = []
 
 skipped = 0
 loaded = 0
-csv_path = os.path.expanduser("~/Desktop/Coding/Arcapita Internship Projects/Post-File-Handling/retail.csv")
+csv_path = os.path.join(os.path.dirname(__file__), "retail.csv")
 
 with open(csv_path, 'r', newline='', encoding='utf-8') as csv_file:
     read = csv.reader(csv_file)

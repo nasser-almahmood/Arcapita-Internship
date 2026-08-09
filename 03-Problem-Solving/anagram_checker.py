@@ -37,6 +37,6 @@ sorted1 = mysort(word1)
 sorted2 = mysort(word2)
 
 if sorted1 == sorted2:
-    print('\nYes its an Anagram Saif its 6:03pm on thursday\n')
+    print('\nYes, these words are ANAGRAMS.\n')
 else:
-    print('\nNo its not an Anagram Saif its 6:03pm on thursday\n')
+    print('\nNo, these words are NOT anagrams.\n')
