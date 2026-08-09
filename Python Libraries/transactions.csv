@@ -1,0 +1,11 @@
+order_id,date,customer_id,product,category,price,qty
+A001,2025-07-01,C123,Milk,Groceries,1.50,p
+A001,2025-07-01,C123,Bread,Groceries,q,1
+A002,2025-07-03,C234,Apples,Groceries,3.20,3
+A003,2025-07-10,C123,Milk,Groceries,1.50,1
+A004,2025-08-02,C345,Butter,Groceries,3.50,1
+A001,2025-07-01,C123,Milk,Groceries,1.50,2
+A001,2025-07-0,C123,Bread,Groceries,2.00,1
+A002,2025-07-03,C234,Apples,Groceries,3.20,3
+A003,2025-07-10,C123,Milk,Groceries,1.50,1
+A004,2025-08-02,C345,Butter,Groceries,3.50,1

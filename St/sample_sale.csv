@@ -1,0 +1,6 @@
+﻿order_id,date,customer_id,product,price,qty
+A001,7/1/2025,C123,Milk,1.5,2
+A001,7/1/2025,C123,Bread,2,1
+A002,7/3/2025,C234,Apples,3.2,3
+A003,7/10/2025,C123,Milk,1.5,1
+A004,8/2/2025,C345,Butter,3.5,1
